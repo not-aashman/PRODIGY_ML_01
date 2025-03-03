@@ -40,7 +40,3 @@ The task involved implementing a **linear regression model** to predict house pr
 - **R-squared**: 0.6371
 
 The model showed an improvement in accuracy after applying log transformation and feature scaling, with a slight reduction in MSE and a marginal increase in R-squared.
-## How to Run:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/PRODIGY_TrackCode_01.git
